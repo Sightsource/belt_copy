@@ -46,7 +46,7 @@ defmodule Belt.Mixfile do
      {:ex_aws_s3, "~> 2.0", optional: true},
      {:sweet_xml, "~> 0.6", optional: true},
      {:hackney, "~> 1.9", optional: true},
-     {:ecto, "~> 2.1", optional: true}
+     {:ecto, "~> 3.0.0-rc.1"}
    ]
   end
 
